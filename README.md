@@ -1,0 +1,2 @@
+# VirtualMouse
+python通过postMessage实现虚拟鼠标
